@@ -8,3 +8,7 @@ With this we get the best for the both worlds.
 - [x] - INSTALL Mantine 7.0
 - [x] - Add all mantine --vars to tailwind config
 - [x] - Mix the globals.css with mantine and Tailwind classes
+
+
+## NOTE
+I am not the original author of this template, I only hosted to be reused by the Mantine UI community
